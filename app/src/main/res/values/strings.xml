@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Uhanov_v_20</string>
+    <string name="todo1">TODO</string>
+    <string name="string_todo1">ter</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo3">TODO3</string>
+    <string name="gal">Галерея</string>
+    <string name="password1">Password</string>
+    <string name="password2">Password</string>
+    <string name="todo999">TODO999</string>
+    <string name="vedpar">Введите пароль</string>
+    <string name="todo555">TODO555</string>
+    <string name="todo1313">TODO1313</string>
+    <string name="fototo">Фотографии</string>
+    <string name="textview12">TextView21</string>
+    <string name="seg">Сегодня</string>
+    <string name="todo77777">TODO7777</string>
+    <string name="todo5554">TODO43</string>
+    <string name="vchera">Вчера</string>
+    <string name="todo4321">TODO3123123</string>
+    <string name="todo0898">TODO9898</string>
+    <string name="todo667676">TODO676767</string>
+    <string name="pozav">Позавчера</string>
+    <string name="todo666666">TODO66675</string>
+    <string name="buttoncamera">Button</string>
+</resources>
